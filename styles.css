@@ -1,0 +1,59 @@
+@charset "UTF-8";
+
+@import url(http://fonts.googleapis.com/css?family=Terminal+Dosis:200);
+
+body {
+    max-width: 550px;
+    margin: 4em auto 2em auto;
+    font-family: 'Terminal Dosis', sans-serif;
+    background: white;
+}
+
+a {
+    color: #227ce8;
+    text-decoration: none;
+}
+
+.nav {
+  text-align: right;
+}
+
+#name {
+  font-size: 20px;
+}
+
+body p {
+  font-size: 18px;
+}
+
+header {
+    font-size: small;
+    text-align: right;
+}
+
+article p {
+    line-height: 1.5em;
+}
+
+.catalog-item {
+    height: 200px;
+    line-height: 180px;
+}
+
+.catalog-thumb {
+    float: right;
+    width: 320px;
+}
+
+img {
+  width:500px;
+  text-align: center;
+}
+
+.labels {
+  text-align: center;
+}
+
+.center {
+  text-align:center;
+}
