@@ -32,6 +32,10 @@
   color: #227ce8;
 }
 
+.purple {
+  color: #cc66ff;
+}
+
 @keyframes noise-anim {
   0% {
     clip: rect(25px, 9999px, 72px, 0);
