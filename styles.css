@@ -3,10 +3,7 @@
 
 .glitch{
   color:black;
-  font-size:15px;
-  position:relative;
-  width:400px;
-  margin:0 auto;
+  font-size:16px;
 }
 @keyframes noise-anim{
   $steps:20;
