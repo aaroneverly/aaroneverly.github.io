@@ -9,7 +9,11 @@
 }
 .theDEffect{
   color: black;
-  text-shadow: 1px, 1px, 1px, 1px, grey;
+  font-size: 18px;
+}
+
+.yellow {
+  
 }
 
 @keyframes noise-anim {
