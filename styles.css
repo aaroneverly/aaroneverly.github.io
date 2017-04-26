@@ -3,9 +3,8 @@
 
 .glitch {
   color: white;
-  font-size: 16px;
+  font-size: 18px;
   position: relative;
-  width: 400px;
   margin: 0 auto;
 }
 
@@ -162,7 +161,7 @@
   background: white;
   overflow: hidden;
   clip: rect(0, 900px, 0, 0);
-  animation: noise-anim-2 3s infinite linear alternate-reverse;
+  animation: noise-anim-2 5s infinite linear alternate-reverse;
 }
 body {
     max-width: 550px;
