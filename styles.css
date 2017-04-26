@@ -12,8 +12,24 @@
   font-size: 18px;
 }
 
+.red {
+  color:#e8227c;
+}
+
+.orange {
+ color:	#e88e22;
+}
+
 .yellow {
-  
+  color: #e6e600;
+}
+
+.green {
+  color:#e8227c;
+}
+
+.blue {
+  color: #227ce8;
 }
 
 @keyframes noise-anim {
@@ -49,7 +65,7 @@
   }
   50% {
     clip: rect(97px, 9999px, 89px, 0);
-  }
+  };
   55% {
     clip: rect(37px, 9999px, 63px, 0);
   }
@@ -179,7 +195,6 @@ body {
 }
 
 a {
-    color: #227ce8;
     text-decoration: none;
 }
 
