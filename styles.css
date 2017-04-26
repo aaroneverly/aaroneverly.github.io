@@ -2,7 +2,7 @@
 @import "compass/css3";
 
 .glitch {
-  color: white;
+  color: black;
   font-size: 18px;
   position: relative;
   margin: 0 auto;
@@ -161,7 +161,7 @@
   background: white;
   overflow: hidden;
   clip: rect(0, 900px, 0, 0);
-  animation: noise-anim-2 5s infinite linear alternate-reverse;
+  animation: noise-anim-2 1s infinite linear alternate-reverse;
 }
 body {
     max-width: 550px;
