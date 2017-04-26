@@ -3,7 +3,7 @@
 
 .glitch {
   color: black;
-  font-size: 18px;
+  font-size: 16px;
   position: relative;
   margin: 0 auto;
 }
@@ -180,7 +180,7 @@ a {
 }
 
 #name {
-  font-size: 20px;
+  font-size: 18px;
 }
 
 body p {
