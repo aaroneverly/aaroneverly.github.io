@@ -72,10 +72,8 @@ img {
 
 .container {
   width: 90%;
-  max-width: 1200px;
   text-align: left;
   margin: 0 auto;
-  padding: 20px;
 }
 
 .photo-grid {
