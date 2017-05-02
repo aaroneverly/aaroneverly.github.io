@@ -247,8 +247,8 @@ embedd {
  width: 600px;
 }
 
-.labels {
-  text-align: center;
+.label {
+  font-size:14px;
 }
 
 .center {
