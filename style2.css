@@ -18,6 +18,7 @@ a {
 }
 
 .nav {
+  max-width:550px; 
   text-align: right;
 }
 
