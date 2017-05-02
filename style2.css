@@ -6,6 +6,17 @@
   padding: 0;
 }
 
+body {
+    max-width: 550px;
+    margin: 4em auto 2em auto;
+    font-family: 'Work Sans Light', sans-serif;
+    background: white;
+}
+
+a {
+    text-decoration: none;
+}
+
 .nav {
   text-align: right;
 }
