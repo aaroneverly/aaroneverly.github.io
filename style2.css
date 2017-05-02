@@ -5,6 +5,11 @@
   margin: 0;
   padding: 0;
 }
+
+.nav {
+  text-align: right;
+}
+
 .center {
   text-align:center;
 }
