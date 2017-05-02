@@ -251,6 +251,10 @@ embedd {
   font-size:14px;
 }
 
+.thumb{
+ width:300px; 
+}
+
 .center {
   text-align:center;
 }
