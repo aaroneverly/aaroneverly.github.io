@@ -78,7 +78,7 @@ img {
 
 .photo-grid {
   position: relative;
-  max-width: 100%;
+  max-width: 120%;
   word-wrap: break-word;
 }
 
