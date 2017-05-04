@@ -256,6 +256,14 @@ embedd {
  width:300px; 
 }
 
+.right{
+ text-align:right; 
+}
+
+.left{
+  text-align:left;
+}
+
 .center {
   text-align:center;
 }
