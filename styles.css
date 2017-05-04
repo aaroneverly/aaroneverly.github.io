@@ -254,7 +254,10 @@ embedd {
 
 .thumb{
  width:250px;
- display:inline-block;
+}
+
+#inlinephotos{
+  display:inline-block; 
 }
 
 .thumb2{
