@@ -253,7 +253,12 @@ embedd {
 }
 
 .thumb{
- width:250px; 
+ width:250px;
+ display:inline-block;
+}
+
+.thumb2{
+ width:300px; 
 }
 
 .right{
