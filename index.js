@@ -7,6 +7,6 @@
         window.open("test.pdf");
     } 
     else {
-      alert("Incorrect Password Try Again");
+      alert("Incorrect");
     }
 }
