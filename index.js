@@ -4,7 +4,7 @@
 
 
     if(answer == psw){
-        window.open("test.pdf");
+        window.open("new_resume.pdf");
     } 
     else {
       alert("Incorrect");
